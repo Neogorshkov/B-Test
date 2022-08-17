@@ -1,5 +1,5 @@
 {
-	"border": {
+	"Border Radius": {
 		"radius": {
 			"none": { "value":  "0" },
 			"3xs": { "value": "2px" },
