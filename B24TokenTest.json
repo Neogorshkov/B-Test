@@ -53,7 +53,8 @@
                 "letterSpacing": "1",
                 "paragraphSpacing": "8",
                 "textDecoration": "none",
-                "textCase": "none"
+                "textCase": "none",
+                "type": "typography"
             }
         }
     }
