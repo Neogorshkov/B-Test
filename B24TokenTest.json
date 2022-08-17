@@ -53,7 +53,8 @@
           "type": "borderRadius"
         }
       },
-    
+      
+    "border-sm": { "value": "1px", "type": "borderWidth"},       
       
     "blue": {
         "10": {
