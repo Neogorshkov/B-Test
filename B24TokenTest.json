@@ -144,7 +144,7 @@
     "main md": {
         "value": {
           "fontFamily": "SF Pro Display",
-          "fontWeight": "Bold",
+          "fontWeight": "Regular",
           "lineHeight": "24px",
           "fontSize": "16px",
           "letterSpacing": "1",
