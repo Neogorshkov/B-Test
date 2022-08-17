@@ -139,8 +139,7 @@
           "value": "#3D4F00",
           "type": "color"
         }
-      },
-          
+      },          
      
     "typo-main-md": {
         "value": {
@@ -170,7 +169,7 @@
       },          
       
     "icon-sm": { "value": "20px", "type": "sizing" },
-    "icon-md": { "value": "24ox", "type": "sizing" },
+    "icon-md": { "value": "48ox", "type": "sizing" },
     "icon-lg": { "value": "32px", "type": "sizing" },
       
     "spacing-sm": { "value": "4px", "type": "spacing" },
