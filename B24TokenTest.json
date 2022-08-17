@@ -141,54 +141,33 @@
       }
     },
     "typography": {
-      "Main 16px": {
-        "fontFamily": {
-          "value": "SF Pro Display",
+      "Main 16": {
+          "value": {
+                "fontFamily": "SF Pro Display",
+                "fontWeight": "Bold",                
+                "lineHeight": "24px",
+                "fontSize": "16px",
+                "letterSpacing": "1",
+                "paragraphSpacing": "8",
+                "textDecoration": "none",
+                "textCase": "none",
+            },
           "type": "typography"
-        },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "typography"
-        },
-        "lineHeight": {
-          "value": "24px",
-          "type": "typography"
-        },
-        "fontSize": {
-          "value": "16px",
-          "type": "typography"
-        },
-        "letterSpacing": {
-          "value": "1",
-          "type": "typography"
-        },
-        "paragraphSpacing": {
-          "value": "8",
-          "type": "typography"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "typography"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "typography"
-        }
-      }
-    },
-    "Main 15": {
-      "value": {
-        "fontFamily": "SF Pro Display",
-        "fontWeight": "Regular",
-        "fontSize": "15px",
-        "letterSpacing": "1",
-        "paragraphSpacing": "8px",
-        "textDecoration": "none",
-        "textCase": "none",
-        "lineHeight": "24px"
       },
-      "type": "typography"
-    }
+      "Main 15": {
+           "value": {
+                "fontFamily": "SF Pro Display",
+                "fontWeight": "Regular",
+                "fontSize": "15px",
+                "letterSpacing": "1",
+                "paragraphSpacing": "8px",
+                "textDecoration": "none",
+                "textCase": "none",
+                "lineHeight": "24px"
+            },
+            "type": "typography"
+    }    
+    }    
   },
   "$themes": [],
   "$metadata": {
