@@ -10,12 +10,11 @@
             "lg": { "value": "12px", "type": "borderRadius" },
             "xl": { "value": "14px", "type": "borderRadius" },
             "2xl": { "value": "16px", "type": "borderRadius"  },
-            "3xl": { "value": "20px", "type": "borderRadius" },
+            "3xl": { "value": "20px", "type": "borderRadius" }
         },
         "Special": {
             "circle": { "value": "50%", "type": "borderRadius" },
-            "pill": { "value":  "99rem", "type": "borderRadius" }        
-            
+            "pill": { "value":  "99rem", "type": "borderRadius" }    
         }
     }
 }
