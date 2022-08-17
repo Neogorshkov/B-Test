@@ -1,0 +1,20 @@
+{ "Bitrix24 Tokens": 
+    {
+        "Border Radium": {
+            "none": { "value":  "0", "type": "borderRadius" },
+            "3xs": { "value": "2px", "type": "borderRadius" },
+            "2xs": { "value": "4px", "type": "borderRadius" },
+            "xs": { "value": "6px", "type": "borderRadius" },
+            "sm": { "value": "8px", "type": "borderRadius" },
+            "md": { "value": "10px", "type": "borderRadius" },
+            "lg": { "value": "12px", "type": "borderRadius" },
+            "xl": { "value": "14px", "type": "borderRadius" },
+            "2xl": { "value": "16px", "type": "borderRadius"  },
+            "3xl": { "value": "20px", "type": "borderRadius" },
+            "circle": { "value": "50%", "type": "borderRadius" },
+            "pill": { "value":  "99rem", "type": "borderRadius" }        
+            
+        }
+    }
+}
+
