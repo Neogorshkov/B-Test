@@ -1,5 +1,6 @@
 {
-  "Bitrix24 Tokens": {      
+  "Bitrix24 Tokens": {    
+      
     //borderRadius  
     "Main": {
         "none": {
@@ -182,7 +183,7 @@
       "type": "sizing"
     }
   },
-  "$themes": ["light", "dark"],
+  "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "Bitrix24 Tokens"
