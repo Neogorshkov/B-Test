@@ -42,6 +42,7 @@
 				"30": { "value":  "#E2F1B3", "type": "color" },
 				"20": { "value":  "#F1FBD0", "type": "color" },
 				"10": { "value":  "#FAFDED", "type": "color" }
+            }
         }
     }
 }
