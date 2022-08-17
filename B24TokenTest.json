@@ -43,6 +43,18 @@
 				"20": { "value":  "#F1FBD0", "type": "color" },
 				"10": { "value":  "#FAFDED", "type": "color" }
             }
+        },
+        "typography":{
+            "Main 16px": {
+                "fontFamily": "SF Pro Display",
+                "fontWeight": "Bold",
+                "lineHeight": "24px",
+                "fontSize": "16px",
+                "letterSpacing": "1",
+                "paragraphSpacing": "8",
+                "textDecoration": "none",
+                "textCase": "none"
+            }
         }
     }
 }
