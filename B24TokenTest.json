@@ -1,6 +1,6 @@
 { "Bitrix24 Tokens": 
     {
-        "Border Radius": {        
+        "borderRadius": {        
             "Main": {
                 "none": { "value":  "0", "type": "borderRadius" },
                 "3xs": { "value": "2px", "type": "borderRadius" },
@@ -18,7 +18,7 @@
                 "pill": { "value":  "99rem", "type": "borderRadius" }    
             }
         },
-        "Color": {
+        "color": {
             "blue": {
 				"95": { "value":  "#004F69", "type": "color" },
 				"90": { "value":  "#006382", "type": "color" },
