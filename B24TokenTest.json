@@ -1,62 +1,199 @@
-{ "Bitrix24 Tokens": 
-    {
-        "borderRadius": {        
-            "Main": {
-                "none": { "value":  "0", "type": "borderRadius" },
-                "3xs": { "value": "2px", "type": "borderRadius" },
-                "2xs": { "value": "4px", "type": "borderRadius" },
-                "xs": { "value": "6px", "type": "borderRadius" },
-                "sm": { "value": "12px", "type": "borderRadius" },
-                "md": { "value": "10px", "type": "borderRadius" },
-                "lg": { "value": "12px", "type": "borderRadius" },
-                "xl": { "value": "14px", "type": "borderRadius" },
-                "2xl": { "value": "16px", "type": "borderRadius"  },
-                "3xl": { "value": "20px", "type": "borderRadius" }
-            },
-            "Special": {
-                "circle": { "value": "50%", "type": "borderRadius" },
-                "pill": { "value":  "99rem", "type": "borderRadius" }    
-            }
+{
+  "Bitrix24 Tokens": {
+    "borderRadius": {
+      "Main": {
+        "none": {
+          "value": "0",
+          "type": "borderRadius"
         },
-        "color": {
-            "blue": {
-				"95": { "value":  "#004F69", "type": "color" },
-				"90": { "value":  "#006382", "type": "color" },
-				"80": { "value":  "#02779C", "type": "color" },
-				"70": { "value":  "#058CB7", "type": "color" },
-				"60": { "value":  "#1AA9D6", "type": "color" },
-				"50": { "value":  "#2FC6F6", "type": "color" },
-				"40": { "value":  "#7EDCF9", "type": "color" },
-				"30": { "value":  "#C1EEFD", "type": "color" },
-				"20": { "value":  "#E5F9FF", "type": "color" },
-				"10": { "value":  "#F4FCFE", "type": "color" }
-			},
-			"green": {
-				"95": { "value":  "#3D4F00", "type": "color" },
-				"90": { "value":  "#506900", "type": "color" },
-				"80": { "value":  "#688800", "type": "color" },
-				"70": { "value":  "#7FA800", "type": "color" },
-				"60": { "value":  "#8DBB00", "type": "color" },
-				"50": { "value":  "#9DCF00", "type": "color" },
-				"40": { "value":  "#BBDE4D", "type": "color" },
-				"30": { "value":  "#E2F1B3", "type": "color" },
-				"20": { "value":  "#F1FBD0", "type": "color" },
-				"10": { "value":  "#FAFDED", "type": "color" }
-            }
+        "3xs": {
+          "value": "2px",
+          "type": "borderRadius"
         },
-        "typography":{
-            "Main 16px": {
-                "fontFamily": "SF Pro Display",
-                "fontWeight": "Bold",
-                "lineHeight": "24px",
-                "fontSize": "16px",
-                "letterSpacing": "1",
-                "paragraphSpacing": "8",
-                "textDecoration": "none",
-                "textCase": "none",
-                "type": "typography"
-            }
+        "2xs": {
+          "value": "4px",
+          "type": "borderRadius"
+        },
+        "xs": {
+          "value": "6px",
+          "type": "borderRadius"
+        },
+        "sm": {
+          "value": "12px",
+          "type": "borderRadius"
+        },
+        "md": {
+          "value": "10px",
+          "type": "borderRadius"
+        },
+        "lg": {
+          "value": "12px",
+          "type": "borderRadius"
+        },
+        "xl": {
+          "value": "14px",
+          "type": "borderRadius"
+        },
+        "2xl": {
+          "value": "16px",
+          "type": "borderRadius"
+        },
+        "3xl": {
+          "value": "20px",
+          "type": "borderRadius"
         }
+      },
+      "Special": {
+        "circle": {
+          "value": "50%",
+          "type": "borderRadius"
+        },
+        "pill": {
+          "value": "99rem",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "color": {
+      "blue": {
+        "10": {
+          "value": "#F4FCFE",
+          "type": "color"
+        },
+        "20": {
+          "value": "#E5F9FF",
+          "type": "color"
+        },
+        "30": {
+          "value": "#C1EEFD",
+          "type": "color"
+        },
+        "40": {
+          "value": "#7EDCF9",
+          "type": "color"
+        },
+        "50": {
+          "value": "#2FC6F6",
+          "type": "color"
+        },
+        "60": {
+          "value": "#1AA9D6",
+          "type": "color"
+        },
+        "70": {
+          "value": "#058CB7",
+          "type": "color"
+        },
+        "80": {
+          "value": "#02779C",
+          "type": "color"
+        },
+        "90": {
+          "value": "#006382",
+          "type": "color"
+        },
+        "95": {
+          "value": "#004F69",
+          "type": "color"
+        }
+      },
+      "green": {
+        "10": {
+          "value": "#FAFDED",
+          "type": "color"
+        },
+        "20": {
+          "value": "#F1FBD0",
+          "type": "color"
+        },
+        "30": {
+          "value": "#E2F1B3",
+          "type": "color"
+        },
+        "40": {
+          "value": "#BBDE4D",
+          "type": "color"
+        },
+        "50": {
+          "value": "#9DCF00",
+          "type": "color"
+        },
+        "60": {
+          "value": "#8DBB00",
+          "type": "color"
+        },
+        "70": {
+          "value": "#7FA800",
+          "type": "color"
+        },
+        "80": {
+          "value": "#688800",
+          "type": "color"
+        },
+        "90": {
+          "value": "#506900",
+          "type": "color"
+        },
+        "95": {
+          "value": "#3D4F00",
+          "type": "color"
+        }
+      }
+    },
+    "typography": {
+      "Main 16px": {
+        "fontFamily": {
+          "value": "SF Pro Display",
+          "type": "typography"
+        },
+        "fontWeight": {
+          "value": "Bold",
+          "type": "typography"
+        },
+        "lineHeight": {
+          "value": "24px",
+          "type": "typography"
+        },
+        "fontSize": {
+          "value": "16px",
+          "type": "typography"
+        },
+        "letterSpacing": {
+          "value": "1",
+          "type": "typography"
+        },
+        "paragraphSpacing": {
+          "value": "8",
+          "type": "typography"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "typography"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "typography"
+        }
+      }
+    },
+    "Main 15": {
+      "value": {
+        "fontFamily": "SF Pro Display",
+        "fontWeight": "Regular",
+        "fontSize": "15px",
+        "letterSpacing": "1",
+        "paragraphSpacing": "8px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "lineHeight": "24px"
+      },
+      "type": "typography"
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Bitrix24 Tokens"
+    ]
+  }
 }
-
