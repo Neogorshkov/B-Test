@@ -1,7 +1,6 @@
 {
   "Bitrix24 Tokens": {    
-      
-    //borderRadius  
+
     "Main": {
         "none": {
           "value": "0",
@@ -55,7 +54,6 @@
         }
       },
     
-    // color
     "blue": {
         "10": {
           "value": "#F4FCFE",
@@ -141,7 +139,7 @@
         }
       },
           
-    //typography    
+
     "Main 16": {
         "value": {
           "fontFamily": "SF Pro Display",
@@ -169,7 +167,6 @@
         "type": "typography"
       },    
       
-    // sizing
     "Icon-20": {
       "value": "20px",
       "type": "sizing"
