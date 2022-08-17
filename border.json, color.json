@@ -1,0 +1,70 @@
+{
+  "border": {
+    "radius": {
+      "none": {
+        "value": "0",
+        "type": "other"
+      },
+      "3xs": {
+        "value": "2px",
+        "type": "other"
+      },
+      "2xs": {
+        "value": "4px",
+        "type": "other"
+      },
+      "xs": {
+        "value": "6px",
+        "type": "other"
+      },
+      "sm": {
+        "value": "8px",
+        "type": "other"
+      },
+      "md": {
+        "value": "10px",
+        "type": "other"
+      },
+      "lg": {
+        "value": "12px",
+        "type": "other"
+      },
+      "xl": {
+        "value": "14px",
+        "type": "other"
+      },
+      "2xl": {
+        "value": "16px",
+        "type": "other"
+      },
+      "3xl": {
+        "value": "20px",
+        "type": "other"
+      },
+      "circle": {
+        "value": "50%",
+        "type": "other"
+      },
+      "pill": {
+        "value": "99rem",
+        "type": "other"
+      }
+    },
+    "width": {
+      "thin": {
+        "value": "1px",
+        "type": "other"
+      },
+      "thick": {
+        "value": "2px",
+        "type": "other"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "border"
+    ]
+  }
+}
