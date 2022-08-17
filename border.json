@@ -1,6 +1,6 @@
 {
 	"Border Radius": {
-		"radius": {
+		"Border Radius": {
 			"none": { "value":  "0" },
 			"3xs": { "value": "2px" },
 			"2xs": { "value": "4px" },
@@ -14,7 +14,7 @@
 			"circle": { "value": "50%" },
 			"pill": { "value":  "99rem" }
 		},
-		"width": {
+		"Width": {
 			"thin": { "value": "1px" },
 			"thick": { "value": "2px" }
 		}
