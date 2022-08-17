@@ -141,7 +141,7 @@
       },
           
     "COLORS": "TYPOGRAPHY",  
-    "Main 16": {
+    "Main md": {
         "value": {
           "fontFamily": "SF Pro Display",
           "fontWeight": "Bold",
@@ -154,16 +154,16 @@
         },
         "type": "typography"
       },
-    "Main 15": {
+    "Main sm": {
         "value": {
           "fontFamily": "SF Pro Display",
           "fontWeight": "Regular",
-          "fontSize": "15px",
+          "fontSize": "14px",
           "letterSpacing": "1",
           "paragraphSpacing": "8px",
           "textDecoration": "none",
           "textCase": "none",
-          "lineHeight": "24px"
+          "lineHeight": "20px"
         },
         "type": "typography"
       },    
