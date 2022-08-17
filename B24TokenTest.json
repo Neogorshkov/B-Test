@@ -1,7 +1,7 @@
 {
   "Bitrix24 Tokens": {    
     
-    "Main": {
+    "main": {
         "none": {
           "value": "0",
           "type": "borderRadius"
@@ -43,7 +43,7 @@
           "type": "borderRadius"
         }
       }, 
-    "Special": {
+    "special": {
         "circle": {
           "value": "50%",
           "type": "borderRadius"
@@ -141,7 +141,7 @@
       },
           
      
-    "Main md": {
+    "main md": {
         "value": {
           "fontFamily": "SF Pro Display",
           "fontWeight": "Bold",
@@ -154,7 +154,7 @@
         },
         "type": "typography"
       },
-    "Main sm": {
+    "main sm": {
         "value": {
           "fontFamily": "SF Pro Display",
           "fontWeight": "Regular",
@@ -169,15 +169,15 @@
       },    
       
       
-    "Icon-sm": {
+    "icon-sm": {
       "value": "20px",
       "type": "sizing"
     },
-    "Icon-md": {
+    "icon-md": {
       "value": "24ox",
       "type": "sizing"
     },
-    "Icon-lg": {
+    "icon-lg": {
       "value": "32px",
       "type": "sizing"
     }
