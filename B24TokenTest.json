@@ -142,7 +142,7 @@
       },
           
      
-    "main md": {
+    "typo-main-md": {
         "value": {
           "fontFamily": "SF Pro Display",
           "fontWeight": "Regular",
@@ -155,7 +155,7 @@
         },
         "type": "typography"
       },
-    "main sm": {
+    "typo-main-sm": {
         "value": {
           "fontFamily": "SF Pro Display",
           "fontWeight": "Regular",
