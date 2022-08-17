@@ -171,8 +171,7 @@
       
       
     "icon-sm": {
-      "width": "20px",
-      "height": "16px",    
+      "value": "20px",   
       "type": "sizing"
     },
     "icon-md": {
