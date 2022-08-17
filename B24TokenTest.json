@@ -141,33 +141,45 @@
       }
     },
     "typography": {
-          "Main 16": {
-              "value": {
-                    "fontFamily": "SF Pro Display",
-                    "fontWeight": "Bold",                
-                    "lineHeight": "24px",
-                    "fontSize": "16px",
-                    "letterSpacing": "1",
-                    "paragraphSpacing": "8",
-                    "textDecoration": "none",
-                    "textCase": "none"
-                },
-              "type": "typography"
-          },
-          "Main 15": {
-               "value": {
-                    "fontFamily": "SF Pro Display",
-                    "fontWeight": "Regular",
-                    "fontSize": "15px",
-                    "letterSpacing": "1",
-                    "paragraphSpacing": "8px",
-                    "textDecoration": "none",
-                    "textCase": "none",
-                    "lineHeight": "24px"
-                },
-                "type": "typography"
-        }    
-    }    
+      "Main 16": {
+        "value": {
+          "fontFamily": "SF Pro Display",
+          "fontWeight": "Bold",
+          "lineHeight": "24px",
+          "fontSize": "16px",
+          "letterSpacing": "1",
+          "paragraphSpacing": "8",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "type": "typography"
+      },
+      "Main 15": {
+        "value": {
+          "fontFamily": "SF Pro Display",
+          "fontWeight": "Regular",
+          "fontSize": "15px",
+          "letterSpacing": "1",
+          "paragraphSpacing": "8px",
+          "textDecoration": "none",
+          "textCase": "none",
+          "lineHeight": "24px"
+        },
+        "type": "typography"
+      }
+    },
+    "Icon-20": {
+      "value": "20px",
+      "type": "sizing"
+    },
+    "Icon-24": {
+      "value": "24ox",
+      "type": "sizing"
+    },
+    "Icon-32": {
+      "value": "32px",
+      "type": "sizing"
+    }
   },
   "$themes": [],
   "$metadata": {
