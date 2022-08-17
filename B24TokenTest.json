@@ -167,21 +167,15 @@
           "lineHeight": "20px"
         },
         "type": "typography"
-      },    
+      },          
       
+    "icon-sm": { "value": "20px", "type": "sizing" },
+    "icon-md": { "value": "24ox", "type": "sizing" },
+    "icon-lg": { "value": "32px", "type": "sizing" },
       
-    "icon-sm": {
-      "value": "20px",   
-      "type": "sizing"
-    },
-    "icon-md": {
-      "value": "24ox",
-      "type": "sizing"
-    },
-    "icon-lg": {
-      "value": "32px",
-      "type": "sizing"
-    }
+    "spacing-sm": { "value": "4px", "type": "spacing" },
+    "spacing-md": { "value": "8px", "type": "spacing" }  
+      
   },
   "$themes": [],
   "$metadata": {
