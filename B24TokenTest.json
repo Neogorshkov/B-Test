@@ -1,7 +1,7 @@
 {
-  "Bitrix24 Tokens": {
-    "borderRadius": {
-      "Main": {
+  "Bitrix24 Tokens": {      
+    //borderRadius  
+    "Main": {
         "none": {
           "value": "0",
           "type": "borderRadius"
@@ -43,7 +43,7 @@
           "type": "borderRadius"
         }
       },
-      "Special": {
+    "Special": {
         "circle": {
           "value": "50%",
           "type": "borderRadius"
@@ -52,10 +52,10 @@
           "value": "99rem",
           "type": "borderRadius"
         }
-      }
-    },
-    "color": {
-      "blue": {
+      },
+    
+    // color
+    "blue": {
         "10": {
           "value": "#F4FCFE",
           "type": "color"
@@ -97,7 +97,7 @@
           "type": "color"
         }
       },
-      "green": {
+    "green": {
         "10": {
           "value": "#FAFDED",
           "type": "color"
@@ -138,10 +138,10 @@
           "value": "#3D4F00",
           "type": "color"
         }
-      }
-    },
-    "typography": {
-      "Main 16": {
+      },
+          
+    //typography    
+    "Main 16": {
         "value": {
           "fontFamily": "SF Pro Display",
           "fontWeight": "Bold",
@@ -154,7 +154,7 @@
         },
         "type": "typography"
       },
-      "Main 15": {
+    "Main 15": {
         "value": {
           "fontFamily": "SF Pro Display",
           "fontWeight": "Regular",
@@ -166,8 +166,9 @@
           "lineHeight": "24px"
         },
         "type": "typography"
-      }
-    },
+      },    
+      
+    // sizing
     "Icon-20": {
       "value": "20px",
       "type": "sizing"
@@ -181,7 +182,7 @@
       "type": "sizing"
     }
   },
-  "$themes": [],
+  "$themes": ["light", "dark"],
   "$metadata": {
     "tokenSetOrder": [
       "Bitrix24 Tokens"
