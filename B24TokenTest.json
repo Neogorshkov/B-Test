@@ -19,7 +19,7 @@
           "type": "borderRadius"
         },
         "sm": {
-          "value": "512px",
+          "value": "8px",
           "type": "borderRadius"
         },
         "md": {
