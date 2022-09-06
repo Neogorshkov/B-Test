@@ -140,7 +140,8 @@
         "type": "color"
       },
       "95": {
-        "value": "#3D4F00"
+        "value": "#3D4F00",
+        "type": "color"
       }
     }
     },
