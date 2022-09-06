@@ -1,5 +1,6 @@
 {
   "Bitrix24 Light": {
+      
     "main": {
       "none": {
         "value": "0",
@@ -52,11 +53,14 @@
         "type": "borderRadius"
       }
     },
+      
     "border-sm": {
       "value": "1px",
       "type": "borderWidth"
     },
-    "blue": {
+    
+    "color": { 
+        "blue": {
       "10": {
         "value": "#F4FCFE",
         "type": "color"
@@ -98,7 +102,7 @@
         "type": "color"
       }
     },
-    "green": {
+        "green": {
       "10": {
         "value": "#FAFDED",
         "type": "color"
@@ -139,7 +143,9 @@
         "value": "#3D4F00",
         "type": "color"
       }
+    }
     },
+      
     "typo-main-md": {
       "value": {
         "fontFamily": "SF Pro Display",
@@ -166,6 +172,7 @@
       },
       "type": "typography"
     },
+      
     "icon-sm": {
       "value": "20px",
       "type": "sizing"
@@ -182,6 +189,7 @@
       "value": "42px",
       "type": "sizing"
     },
+      
     "spacing-sm": {
       "value": "4px",
       "type": "spacing"
@@ -198,6 +206,7 @@
       "value": "100%",
       "type": "opacity"
     },
+      
     "Shadow-1": {
       "value": {
         "x": "4",
