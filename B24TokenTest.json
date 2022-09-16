@@ -55,9 +55,13 @@
     },
       
     "border-sm": {
-      "value": "1px",
+      "value": "2px",
       "type": "borderWidth"
     },
+    "border-md": {
+      "value": "4px",
+      "type": "borderWidth"
+    },  
     "border-xl": {
       "value": "10px",
       "type": "borderWidth"
